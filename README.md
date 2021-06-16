@@ -9,6 +9,7 @@ Use Git CLI
 4. Commit
 5. Push it
 6. Pull 
+
 GOOD LUCK 💪🏾
 
 This `index.html` currently looks like this 👇🏾
